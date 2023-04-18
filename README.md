@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif)
+![MasterHead](https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif)
 <h1 align="center">Hi 👋, I'm Aditya Tiwari</h1>
 <h3 align="center">Ambitious and results-driven Master of Computer Applications (MCA) student with a specialization in Artificial Intelligence and Machine Learning (AIML)</h3>
 
